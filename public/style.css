@@ -1,0 +1,30 @@
+
+.headingText {
+  font-size: 2rem;
+  color: #111;
+  font-weight: 700;
+
+}
+
+.container {
+  margin: 50px auto;
+  width: 400px;
+  min-height: 600px;
+  border: 2px solid green;
+  text-align: center;
+}
+
+.btn {
+  background-color: green;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 5px 10px;
+  font-size: 1.5rem;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.bgRed {
+  background-color: red;
+}
